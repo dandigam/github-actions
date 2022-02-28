@@ -8,7 +8,7 @@ public class BaseController {
 
 	@GetMapping("/welcome")
 	public String welcome() {
-		return "Welcome to Github actions";
+		return "హే లోకేష్ స్టార్ట్ చేసావా నువ్వు?";
 	}
 
 }
