@@ -10,4 +10,7 @@ public class CicdActionsGithubApplication {
 		SpringApplication.run(CicdActionsGithubApplication.class, args);
 	}
 
+	public void test() {
+
+	}
 }
