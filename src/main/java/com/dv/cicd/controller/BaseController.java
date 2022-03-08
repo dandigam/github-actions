@@ -11,4 +11,7 @@ public class BaseController {
 		return "హే లోకేష్ స్టార్ట్ చేసావా నువ్వు?";
 	}
 
+	public void test() {
+		
+	}
 }
