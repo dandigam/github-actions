@@ -10,10 +10,5 @@ public class BaseController {
 	public String welcome() {
 		return "హే లోకేష్ స్టార్ట్ చేసావా నువ్వు?";
 	}
-	
-	@GetMapping("/test")
-	public String getMsg() {
-	return "welcome to gitrepo";
-	}
 
 }
